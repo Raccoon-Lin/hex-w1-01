@@ -124,6 +124,10 @@ body {
   margin-bottom: 80px;
 }
 
+.pt-160 {
+  padding-top: 160px;
+}
+
 .w-50 {
   width: 50%;
 }
